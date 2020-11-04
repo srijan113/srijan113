@@ -10,8 +10,8 @@
 
 ## My Work
 - <a href="https://pos.returnzero.com.np/demo/"><img src="statistics.svg" alt="drawing" width="30"/> 
-</a> Point of Sale (POS) 
-- <img src="loding.gif" alt="drawing" height="100"/>
+</a> Point of Sale (POS) <br>
+<img src="loding.gif" alt="drawing" height="100"/>
 
 ## Area Of Interest
 <img src="python.svg" alt="drawing" width="30"/>
