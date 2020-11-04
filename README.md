@@ -4,7 +4,7 @@
 ## My Status
 - 🔭 Web Designing since 2018
 - 🌱 Currently wroking on my python skills
-- 👯 If you want a clobration I'am up for it 
+- 👯 If you want a collaborate I'am up for it 
 - 🧑🏿‍🎓 Student
 - ♑ Capricorn(not a developing tool 🤣)
 
