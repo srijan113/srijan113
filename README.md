@@ -14,11 +14,11 @@
 <img src="loding.gif" alt="drawing" height="100"/>
 
 ## Area Of Interest
-<img src="python.svg" alt="drawing" width="30"/>
-<img src="django.svg" alt="drawing" width="30"/>
-<img src="javascript.svg" alt="drawing" width="30"/>
-<img src="postgresql.svg" alt="drawing" width="30"/>
-<img src="github.svg" alt="drawing" width="30"/>
+<a href="#"><img src="python.svg" alt="drawing" width="30"/></a>
+<a href="#"><img src="django.svg" alt="drawing" width="30"/></a>
+<a href="#"><img src="javascript.svg" alt="drawing" width="30"/></a>
+<a href="#"><img src="postgresql.svg" alt="drawing" width="30"/></a>
+<a><img src="github.svg" alt="drawing" width="30"/></a>
 
 
 ### Connect with me:
