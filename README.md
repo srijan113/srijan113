@@ -11,7 +11,7 @@
 ## My Work
 - <a href="https://pos.returnzero.com.np/demo/"><img src="statistics.svg" alt="drawing" width="30"/> 
 </a> Point of Sale (POS) <br>
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bluebloodthoroughbreds.com.au%2Fwp-content%2Fthemes%2Fbbt%2Fjs%2Ficon-loading.gif&f=1&nofb=1" alt="drawing"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bluebloodthoroughbreds.com.au%2Fwp-content%2Fthemes%2Fbbt%2Fjs%2Ficon-loading.gif&f=1&nofb=1" alt="drawing" height="400"/>
 
 ## Area Of Interest
 <a href="#"><img src="python.svg" alt="drawing" width="30"/></a>
