@@ -1,4 +1,4 @@
-## Hi, I am Srijan full time sudent and half time developer 👋🏾
+## Hi, I am Srijan full time student and half time developer 👋🏾
 ![](hello.gif)
 
 ## My Status
