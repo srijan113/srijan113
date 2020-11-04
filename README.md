@@ -22,9 +22,9 @@
 
 
 ### Connect with me:
-<a href="https://www.facebook.com/srijan.pokhrel.35"><img src="facebook.svg" alt="drawing" width="30"/>
+<a href="https://www.facebook.com/srijan.pokhrel.35"><img src="facebook.svg" alt="drawing" target="_blank" width="30"/>
 </a>
-<a href="https://www.linkedin.com/in/srijan-pokhrel-598b661ba/"><img src="linkedin.svg" alt="drawing" width="30"/>
+<a href="https://www.linkedin.com/in/srijan-pokhrel-598b661ba/"><img src="linkedin.svg" target="_blank" alt="drawing" width="30"/>
 </a>
 
 
